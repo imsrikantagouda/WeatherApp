@@ -22,11 +22,11 @@ git clone https://github.com/imsrikantagouda/WeatherApp.git
 
 
 2.install the dependencies
-# Go to the  backend - Weather-springBoot  directory and install dependencies
+# Go to the  backend - Weather-springBoot  directory and install dependenciesa nd replace your API_KEY in WeatherService.java file
 # Go to the frontend - weather-app directory create a new app replace the src folder into the  your new application and install dependenciess
 
 3.Run APPLICATION
-#backend -using Maven and replace your API ID in WeatherService.java file 
+#backend -using Maven  
 #frontend using ng serve
 
 ## Deployment
