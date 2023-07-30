@@ -26,7 +26,7 @@ git clone https://github.com/imsrikantagouda/WeatherApp.git
 # Go to the frontend - weather-app directory create a new app replace the src folder into the  your new application and install dependenciess
 
 3.Run APPLICATION
-#backend -using Maven
+#backend -using Maven and replace your API ID in WeatherService.java file 
 #frontend using ng serve
 
 ## Deployment
